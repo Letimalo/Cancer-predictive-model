@@ -1,4 +1,5 @@
-# Cancer-predictive-model
+# DEVELOPING A PREDICTIVE MODEL FOR PROSTATE CANCER RISK ASSESSMENT.
+
 This project aims to develop a predictive model to assess cancer risk based on various health, dietary, and demographic factors. We use a structured process to clean, preprocess, and model the data, applying advanced machine learning techniques, including transformers for feature extraction, to improve prediction accuracy.
 
 Table of Contents
